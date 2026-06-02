@@ -1,0 +1,11 @@
+---
+import { SITE_TITLE, NAV_LINKS } from '../consts';
+---
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="/">🌿 {SITE_TITLE}</a>
+    <nav class="nav" aria-label="Primary">
+      {NAV_LINKS.map((link) => <a href={link.href}>{link.label}</a>)}
+    </nav>
+  </div>
+</header>

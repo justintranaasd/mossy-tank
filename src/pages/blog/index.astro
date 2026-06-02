@@ -1,0 +1,24 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { CLUSTERS } from '../../consts';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+<BaseLayout title="Guides" description="All Mossy Tank guides: low-tech planted tanks, bettas, shrimp, troubleshooting, and honest gear picks.">
+  <div class="container">
+    <h1>Guides</h1>
+    <p class="lead">Everything we've written, newest first.</p>
+    <ul class="post-list">
+      {posts.map((post) => (
+        <li>
+          <span class="tag">{CLUSTERS[post.data.cluster]}</span><br />
+          <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+          <p>{post.data.description}</p>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>

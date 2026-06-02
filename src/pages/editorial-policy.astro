@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_TITLE } from '../consts';
+---
+<BaseLayout title="Editorial Policy" description="How Mossy Tank researches, writes, and reviews its content.">
+  <div class="container prose post">
+    <h1>Editorial Policy</h1>
+    <p>
+      {SITE_TITLE} aims to be the most trustworthy beginner resource for low-tech planted aquariums.
+      Here's how we keep our content reliable:
+    </p>
+    <h2>How we create content</h2>
+    <ul>
+      <li><strong>Hands-on experience first.</strong> Guides reflect real setups and outcomes, not just theory.</li>
+      <li><strong>Researched and fact-checked.</strong> We cross-reference reputable hobby sources and manufacturer specs.</li>
+      <li><strong>Reviewed before publishing.</strong> Every article is edited by a human for accuracy and clarity.</li>
+      <li><strong>Kept current.</strong> We update guides as gear, prices, and best practices change.</li>
+    </ul>
+    <h2>Corrections</h2>
+    <p>
+      Spotted an error? Email us via the <a href="/contact/">contact page</a> and we'll review and
+      correct it promptly.
+    </p>
+    <h2>Animal welfare</h2>
+    <p>
+      The wellbeing of fish, shrimp, and other livestock always comes first. We will never recommend
+      a practice that compromises animal health for aesthetics or convenience.
+    </p>
+  </div>
+</BaseLayout>

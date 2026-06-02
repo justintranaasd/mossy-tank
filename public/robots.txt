@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mossytank.com/sitemap-index.xml

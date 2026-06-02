@@ -1,0 +1,16 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { CONTACT_EMAIL } from '../consts';
+---
+<BaseLayout title="Contact" description="Get in touch with Mossy Tank.">
+  <div class="container prose post">
+    <h1>Contact</h1>
+    <p>
+      Questions, corrections, or partnership enquiries? Email us at
+      <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a> and we'll get back to you.
+    </p>
+    <p>
+      We read everything, but please be patient — Mossy Tank is a small, independent project.
+    </p>
+  </div>
+</BaseLayout>

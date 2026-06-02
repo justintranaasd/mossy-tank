@@ -1,0 +1,18 @@
+---
+import { CLUSTERS } from '../consts';
+
+interface Props {
+  href: string;
+  title: string;
+  description: string;
+  cluster?: keyof typeof CLUSTERS;
+}
+const { href, title, description, cluster = 'general' } = Astro.props;
+---
+<li class="card">
+  <a href={href}>
+    <span class="tag">{CLUSTERS[cluster]}</span>
+    <h3>{title}</h3>
+    <p>{description}</p>
+  </a>
+</li>
