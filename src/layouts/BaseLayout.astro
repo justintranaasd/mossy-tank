@@ -76,6 +76,15 @@ const jsonLd =
     <meta name="twitter:image" content={ogImage} />
 
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E3T8QZSSG9"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-E3T8QZSSG9');
+    </script>
   </head>
   <body>
     <Header />
