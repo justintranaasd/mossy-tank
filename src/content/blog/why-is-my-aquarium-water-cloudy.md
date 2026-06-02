@@ -19,7 +19,7 @@ This is the most common one, and the most alarming-looking. Your water looks lik
 
 **What's causing it:** A bacterial bloom. As a new tank establishes its nitrogen cycle, billions of free-floating heterotrophic bacteria multiply rapidly in the water column before the beneficial bacteria in your filter media take hold. This is completely normal and is actually a sign that your tank's biology is doing what it should.
 
-This is also the first sign of **New Tank Syndrome** — the umbrella term for the problems that hit tanks that haven't been properly cycled. I speak from painful experience here: I added fish to my first tank after five days because I was impatient, watched a whole school of neon tetras deteriorate over the following week, and spent hours frantically Googling while doing emergency water changes. The cloudiness was the first warning I ignored.
+This is also the first sign of **New Tank Syndrome** — the umbrella term for the problems that hit tanks that haven't been properly cycled. It's one of the most common causes of fish loss for new hobbyists: the tank looks fine, the water is clear at first, and then a bacterial bloom hits right around the time impatient beginners have already added livestock. The cloudiness is the warning most people ignore.
 
 **What to do:**
 - Do **nothing dramatic**. Resist the urge to tear the tank apart.
