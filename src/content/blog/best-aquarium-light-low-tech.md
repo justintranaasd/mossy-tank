@@ -1,0 +1,104 @@
+---
+title: "Best Aquarium Light for Low-Tech Planted Tanks (2026 Guide)"
+description: "Low-tech planted tanks need moderate light — not the most powerful. Here's how to choose the right light without triggering algae, and our top picks for every tank size."
+pubDate: 2026-06-03
+cluster: gear
+pageType: money
+draft: false
+---
+
+import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
+
+<AffiliateDisclosure />
+
+Lighting is where most low-tech planted tanks go wrong. Beginners assume more light means better plant growth, buy the most powerful LED they can afford — and then spend the next three months fighting algae.
+
+In a low-tech tank without CO2, the goal is moderate light. Enough for your plants to grow steadily; not so much that algae outcompetes them. Here's how to choose the right light, and which options perform best.
+
+---
+
+## What low-tech plants actually need
+
+Low-light and medium-light plants — the species that thrive without CO2 — evolved in conditions with less intense light than the sun-drenched aquascaping displays you see in competitions. Java fern, anubias, crypts, and most mosses grow in shaded or dappled-light environments in the wild.
+
+**Target for a low-tech planted tank:** lights producing approximately 20–40 lumens per litre, running 6–8 hours per day on a timer.
+
+This is less intense than high-tech planted tank lighting (which can run 60–100+ lumens per litre for CO2-injected setups). The difference is significant: a light appropriate for high-tech creates an algae crisis in a low-tech setup.
+
+**The timer is non-negotiable.** Inconsistent photoperiods stress plants and invite algae. An $8 digital timer is one of the best investments in a planted tank.
+
+---
+
+## What to look for
+
+**Adjustable intensity:** The ability to dim the light means you can dial in the right level for your specific tank, plants, and algae situation. This is more valuable than raw power.
+
+**Adjustable spectrum:** Most modern aquarium LEDs are "full spectrum" (combination of white, red, and blue channels). Some have separate channel controls. For plants, a light with some red spectrum supports photosynthesis.
+
+**Size match:** The light should span most of the tank's length. A light that illuminates only the centre leaves shaded areas where algae can thrive unchallenged.
+
+**Ramp/timer function:** Built-in timers and sunrise/sunset ramp features reduce fish stress by avoiding sudden light transitions. Nice to have; not essential if you use an external timer.
+
+---
+
+## Our recommendations by tank size
+
+### Small tanks (20–40L / up to 40cm)
+
+**Chihiros WRGB II Slim 30:** A compact, high-quality LED with separate WRGB channel control and app connectivity. Overkill for pure low-tech but the dimming capability means it can be run at 30–40% power, making it suitable. Premium option.
+
+**Fluval Aquasky 2.0 (45cm):** Simple, reliable, programmable LED with a decent colour spectrum. Good mid-range option widely available at pet stores. Works well for a 30–40L planted tank at moderate settings.
+
+**Hygger 14W Aquarium Light:** Budget-friendly option with adjustable brightness and a clip-mount design. Good for smaller low-tech tanks where cost is a priority.
+
+---
+
+### Standard tanks (40–75L / 60cm)
+
+**Fluval 3.0 Plant Spectrum LED (61cm):** The most recommended mid-range planted tank light in the hobby for this size class. Excellent PAR distribution, app-controlled with programmable sunrise/sunset, and — critically — easy to dial down to appropriate intensities for a low-tech tank. The 3.0 is an upgrade over the original Planted 3.0 with improved spectrum and connectivity.
+
+**Current USA Satellite Freshwater Plus Pro:** A versatile light with separated colour channels, a remote control, and good spread for the price. Strong mid-range alternative to the Fluval.
+
+**Nicrew ClassicLED Plus (60cm):** Budget option with adjustable white and blue channels. Limited compared to premium options but perfectly adequate for hardy low-tech plants (java fern, anubias, crypts) in a beginner tank.
+
+---
+
+### Larger tanks (90–120cm)
+
+**Aquael Leddy Slim 100 / 120:** Polish brand, well-regarded in the European hobby. Clean design, good spectrum, reliable. Good value in the mid-range.
+
+**Fluval 3.0 Plant Spectrum LED (122cm version):** The same reliable Fluval option scaled up for larger tanks.
+
+**Twinstar series:** Japanese brand popular among serious planted tank hobbyists for consistent PAR output and precise control. Premium pricing but excellent performance.
+
+---
+
+## Lighting schedule: the other half of the equation
+
+The best light in the world causes algae problems if run for 14 hours a day. For a low-tech planted tank:
+
+- **New tank (first 4–8 weeks):** 5–6 hours per day at moderate intensity while the tank establishes
+- **Established tank:** 6–8 hours per day
+- **If algae appears:** reduce the photoperiod by 1 hour; wait 2 weeks before adjusting further
+
+A **digital timer** ($8–15) is the simplest investment. Set it and forget it — consistency is more important than the exact duration.
+
+---
+
+## Signs your light is too intense for low-tech
+
+- Green or brown algae appearing on glass and hardscape within 2–3 weeks of setup
+- String algae (hair algae) developing on plant leaves and substrate
+- Plants bleaching or developing white tips (rare, usually only with very intense lights)
+
+**Solution:** don't remove the light — turn it down or shorten the photoperiod. If your light doesn't have dimming, reduce the photoperiod by 1–2 hours and add some floating plants to shade the lower level.
+
+---
+
+## Do I need a planted tank-specific light?
+
+Not necessarily. Many standard aquarium LEDs sold as "freshwater lights" or "tropical lights" work fine for low-tech planted tanks. What matters is the intensity (not too high), the spectrum (some warm/red component helps plants), and the ability to run it on a timer.
+
+The fancy features — app control, PAR data, WRGB channels — become more important if you want to grow demanding plants or eventually upgrade to CO2 injection. For a beginner low-tech setup with java fern, anubias, and crypts, a mid-range LED on a timer is completely sufficient.
+
+For the full setup guide including lighting schedules, see our [low-tech planted tank beginners guide](/blog/low-tech-planted-tank-beginners-guide/).
