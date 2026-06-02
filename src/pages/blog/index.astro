@@ -3,7 +3,11 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { CLUSTERS } from '../../consts';
 
-const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+const todayStr = new Date().toLocaleDateString('en-CA');
+const posts = (await getCollection('blog', ({ data }) => {
+  if (data.draft) return false;
+  return data.pubDate.toISOString().slice(0, 10) <= todayStr;
+})).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 ---

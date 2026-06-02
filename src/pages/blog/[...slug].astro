@@ -4,7 +4,11 @@ import { getCollection, render } from 'astro:content';
 import { CLUSTERS } from '../../consts';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  const todayStr = new Date().toLocaleDateString('en-CA');
+  const posts = await getCollection('blog', ({ data }) => {
+    if (data.draft) return false;
+    return data.pubDate.toISOString().slice(0, 10) <= todayStr;
+  });
   return posts.map((post) => ({ params: { slug: post.id }, props: { post } }));
 }
 

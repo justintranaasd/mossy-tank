@@ -4,7 +4,11 @@ import ArticleCard from '../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 import { SITE_TAGLINE } from '../consts';
 
-const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+const todayStr = new Date().toLocaleDateString('en-CA');
+const posts = (await getCollection('blog', ({ data }) => {
+  if (data.draft) return false;
+  return data.pubDate.toISOString().slice(0, 10) <= todayStr;
+})).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 const latest = posts.slice(0, 6);
