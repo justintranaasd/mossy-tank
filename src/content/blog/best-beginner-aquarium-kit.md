@@ -43,7 +43,7 @@ The hidden cost of cheap kits: proprietary filter cartridges. Some kits require 
 
 ### Best all-round kit (40L): Fluval Flex 34L / 57L
 
-The Fluval Flex series is consistently the most recommended beginner kit in the planted tank hobby. The curved glass front gives excellent visibility, the included filter is genuinely good (multi-stage filtration, adjustable flow), the LED is serviceable for low-demand plants (anubias, java fern, crypts), and the overall build quality is well above typical starter kit level.
+The [Fluval Flex series](https://amzn.to/4vjrzGy) is consistently the most recommended beginner kit in the planted tank hobby. The curved glass front gives excellent visibility, the included filter is genuinely good (multi-stage filtration, adjustable flow), the LED is serviceable for low-demand plants (anubias, java fern, crypts), and the overall build quality is well above typical starter kit level.
 
 The 34L version suits a betta tank or small community. The 57L gives more room for a planted community setup.
 
@@ -61,7 +61,7 @@ The Aqueon starter kits are widely available (US market) and represent solid bud
 
 ### Best for betta specifically: Fluval Spec V (19L) or Fluval Flex 34L
 
-The Fluval Spec V is a small, elegant tank purpose-built for a single betta. The filtration chamber is hidden at the back, the LED is functional for low-light plants, and the minimal, clean design suits a planted betta display.
+The [Fluval Spec V](https://amzn.to/4dZoHYt) is a small, elegant tank purpose-built for a single betta. The filtration chamber is hidden at the back, the LED is functional for low-light plants, and the minimal, clean design suits a planted betta display.
 
 **Important:** the Spec V's filter output can be too strong for bettas straight out of the box. Reduce the flow by adding filter floss to the output chamber or partially blocking the pump. This is a known issue with easy solutions.
 
@@ -81,11 +81,11 @@ Even with a good kit, most planted tank setups benefit from a few additions not 
 
 **Digital timer ($8–15):** Essential for consistent lighting. Your plants will thank you; your algae problem won't develop.
 
-**Liquid test kit ($25–35):** The API Freshwater Master Test Kit is the standard. You need to test ammonia, nitrite, nitrate, and pH — especially during cycling.
+**Liquid test kit ($25–35):** The [API Freshwater Master Test Kit](https://amzn.to/3RYNhBi) is the standard. You need to test ammonia, nitrite, nitrate, and pH — especially during cycling.
 
 **Quality substrate:** Most kits include basic gravel. For a planted tank, swapping this for aquasoil makes a significant difference. See our [substrate guide](/blog/best-substrate-planted-tank/).
 
-**Dechlorinator:** Seachem Prime is the most widely recommended — it detoxifies ammonia as well as neutralising chlorine, which is useful during cycling.
+**Dechlorinator:** [Seachem Prime](https://amzn.to/4ekzVIh) is the most widely recommended — it detoxifies ammonia as well as neutralising chlorine, which is useful during cycling.
 
 **Root tabs (if using inert substrate):** If you keep the kit gravel, add root tabs near your root-feeding plants.
 

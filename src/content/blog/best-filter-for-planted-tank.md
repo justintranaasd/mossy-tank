@@ -71,7 +71,7 @@ The trade-off is maintenance: canisters are more work to clean (usually every 2�
 
 ### Best sponge filter for betta / shrimp tanks
 
-**Hygger Double Sponge Filter** — reliable, good biological surface area, available in multiple sizes. Pair with a cheap air pump (Tetra Whisper or similar).
+**[Hygger Double Sponge Filter](https://amzn.to/49Ebfb8)** — reliable, good biological surface area, available in multiple sizes. Pair with a cheap air pump (Tetra Whisper or similar).
 
 **Azoo Mignon Filter 60** — a small internal HOB-style filter with very gentle output. Good option if you want a self-contained unit without external airline.
 
@@ -81,7 +81,7 @@ The trade-off is maintenance: canisters are more work to clean (usually every 2�
 
 **Aquaclear 30 / Aquaclear 50** — consistently rated as the best value HOB filters in the hobby. The media chamber is larger than most HOBs of the same rating (meaning more beneficial bacteria), and the flow is adjustable. The Aquaclear 30 suits tanks up to 110L by manufacturer rating; for planted tanks with moderate stocking, the 30 is appropriate for 40–60L.
 
-**Seachem Tidal 35** — a strong alternative with a self-priming pump (no need to manually prime), a surface skimmer built in, and an audible alert when media needs replacing. Well-regarded for planted tanks.
+**[Seachem Tidal 35](https://amzn.to/3PHyBpD)** — a strong alternative with a self-priming pump (no need to manually prime), a surface skimmer built in, and an audible alert when media needs replacing. Well-regarded for planted tanks.
 
 ---
 
@@ -89,7 +89,7 @@ The trade-off is maintenance: canisters are more work to clean (usually every 2�
 
 **Fluval 207 / 307** — reliable workhorse canisters with good media capacity. The 207 suits tanks up to 220L (well oversized for most home planted tanks, which improves performance). Includes spray bar.
 
-**Oase BioMaster 250 / 350** — premium option with a built-in heater chamber and easy-access media baskets. Higher upfront cost but extremely convenient maintenance.
+**[Oase BioMaster 250 / 350](https://amzn.to/4u5JaRf)** — premium option with a built-in heater chamber and easy-access media baskets. Higher upfront cost but extremely convenient maintenance.
 
 ---
 

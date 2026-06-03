@@ -47,7 +47,7 @@ This is less intense than high-tech planted tank lighting (which can run 60–10
 
 **Chihiros WRGB II Slim 30:** A compact, high-quality LED with separate WRGB channel control and app connectivity. Overkill for pure low-tech but the dimming capability means it can be run at 30–40% power, making it suitable. Premium option.
 
-**Fluval Aquasky 2.0 (45cm):** Simple, reliable, programmable LED with a decent colour spectrum. Good mid-range option widely available at pet stores. Works well for a 30–40L planted tank at moderate settings.
+**[Fluval Aquasky 2.0](https://amzn.to/4uajWRO):** Simple, reliable, programmable LED with a decent colour spectrum. Good mid-range option widely available at pet stores. Works well for a 30–40L planted tank at moderate settings.
 
 **Hygger 14W Aquarium Light:** Budget-friendly option with adjustable brightness and a clip-mount design. Good for smaller low-tech tanks where cost is a priority.
 

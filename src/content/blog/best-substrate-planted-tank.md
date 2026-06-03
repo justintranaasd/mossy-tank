@@ -88,7 +88,7 @@ Yes, and many hobbyists do. Common combinations:
 
 **ADA Aqua Soil Amazonia** — the original and most trusted aquasoil. Has been the planted tank standard for decades. Available in normal and powder (finer grain) grades; normal is easiest to work with for beginners.
 
-**Fluval Plant and Shrimp Stratum** — a more widely available alternative. Similar nutrient profile, slightly more consistent grading. Good availability at pet stores. Excellent for shrimp tanks.
+**[Fluval Plant and Shrimp Stratum](https://amzn.to/4aahzY1)** — a more widely available alternative. Similar nutrient profile, slightly more consistent grading. Good availability at pet stores. Excellent for shrimp tanks.
 
 **Tropica Aquarium Soil** — European brand, well-regarded for planted tanks. More consistent nutrient release than some competitors.
 
@@ -102,7 +102,7 @@ Yes, and many hobbyists do. Common combinations:
 
 ### Best inert substrate
 
-**Caribsea Eco-Complete** — technically a planted substrate but behaves more like an enriched gravel. Longer-lasting than aquasoil; good for setups where you want a soil-like appearance with more durability.
+**[Caribsea Eco-Complete](https://amzn.to/4wWdqRg)** — technically a planted substrate but behaves more like an enriched gravel. Longer-lasting than aquasoil; good for setups where you want a soil-like appearance with more durability.
 
 **Natural river gravel (3–5mm):** Cheap, widely available, inert. Perfectly adequate for low-plant setups. Just add root tabs near root-feeding plants.
 
