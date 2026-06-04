@@ -41,7 +41,8 @@ img { max-width: 100%; height: auto; border-radius: var(--radius); }
 /* Header */
 .site-header { border-bottom: 1px solid var(--line); background: #fff; position: sticky; top: 0; z-index: 10; }
 .site-header .container { display: flex; align-items: center; justify-content: space-between; padding-block: .85rem; }
-.brand { font-weight: 800; font-size: 1.25rem; color: var(--green-900); text-decoration: none; display: inline-flex; gap: .4rem; align-items: center; }
+.brand { font-weight: 800; font-size: 1.25rem; color: var(--green-900); text-decoration: none; display: inline-flex; gap: .5rem; align-items: center; }
+.brand-icon { border-radius: 6px; flex-shrink: 0; }
 .nav { display: flex; gap: 1.25rem; }
 .nav a { color: var(--ink); text-decoration: none; font-weight: 600; font-size: 1rem; }
 .nav a:hover { color: var(--green-700); }
